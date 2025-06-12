@@ -41,8 +41,8 @@ This is a starter project for building a GraphQL API using Node.js, Express, Gra
 
 1.  **نسخ المستودع (Clone the repository):**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone  https://github.com/Abdulrahman-haytham/graphql-express-mongodb-starter.git
+    cd graphql-express-mongodb-starter
     ```
 
 2.  **تثبيت الحزم (Install dependencies):**
